@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+.conteiner{
+    max-width: 1200px;
+    margin: auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+padding-top: 23px;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    
+}
+ul,a{
+    color: black;
+}
+.salomlar{
+    display: flex;
+    margin-top: 182px;
+    justify-content: space-between;
+}
+header{
+   background-color: rgba(243, 215, 183, 1);
+   height: 720px;
+}
+h1{
+    font-family: Roboto;
+font-weight: 700;
+font-size: 64px;
+line-height: 100%;
+letter-spacing: 0px;
+margin-bottom: 74px;
+}
+.pp{
+    font-family: Roboto;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0px;
+width: 372px;
+height: 85.36636352539062px;
+top: 334px;
+left: 50px;
+
+}
+.divvvv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 160px;
+}
+.h2{
+    font-family: Roboto;
+font-weight: 700;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: 0px;
+font-variant: small-caps;
+margin-bottom: 64px;
+}
+.p{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0px;
+    width: 646.3881225585938px;
+height: 207.48768615722656px;
+top: 1000px;
+left: 740px;
+color: rgba(51, 51, 51, 1);
+}
+.main{
+
+background-color: rgba(201, 155, 103, 1);
+height: 510px;
+margin-top: 216px;
+}
+.jinni{
+    font-family: Roboto;
+font-weight: 700;
+font-size: 50px;
+line-height: 100%;
+letter-spacing: 0px;
+font-variant: small-caps;
+color: rgba(255, 255, 255, 1);
+padding-top: 109px;
+margin-bottom: 28px;
+width: 397px;
+}
+.paraf{
+    font-family: Roboto;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+letter-spacing: 0px;
+width: 639px;
+height: 150px;
+top: 1708px;
+left: 59px;
+opacity: 0.8;
+color: rgba(255, 255, 255, 1)
+}
+
+.img_card{
+    margin-left: 820px;
+     margin-top: -577px;
+}
+.what{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+}
+.sss{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+padding-top: 71px;
+}
+.img-ss{
+    display: flex;
+    gap: 30px;
+}
+.footer{
+    background-color: rgba(243, 215, 183, 1);
+    height: 160px;
+}
